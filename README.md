@@ -16,3 +16,4 @@
 
 
 ## 🚀 جربه مباشرة بعد النشر على Hugging Face Spaces!
+https://colab.research.google.com/drive/1eC1QSheguQ5S7LcbcI3twhtozHqUSbTf?authuser=0#scrollTo=Lltse09WSbeL
