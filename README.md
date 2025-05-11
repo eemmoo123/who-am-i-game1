@@ -16,3 +16,4 @@
 
 
 ## 🚀 جربه مباشرة بعد النشر على Hugging Face Spaces!
+"C:\Users\emoal\Downloads\untitled1.py"
